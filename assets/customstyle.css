@@ -1,0 +1,29 @@
+body{
+	padding-bottom: 2%;
+}
+.menus{
+	font-size: 19px;
+}
+h1
+{
+	color: darkblue;
+}
+.ptext
+{
+	font-size: 18px;
+}
+
+hr { 
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 5px;
+} 
+.divider-line{
+	width: 100%;
+	min-height: 28px;
+	background: linear-gradient(to right, white , #0e0e52eb);; 
+}
